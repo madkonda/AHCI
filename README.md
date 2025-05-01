@@ -1,7 +1,4 @@
-# AHCI
-
-
-# AHCI Service Manual  
+# User Manual
 *A step-by-step guide to preparing data and running the **TailOR** mouse‑behavior pipeline with Facebook Research’s **SAM2** model.*
 
 ---
