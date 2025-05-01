@@ -24,7 +24,6 @@ Everything is written for a Linux workstation (Ubuntu 20.04 +) but the same st
 
 | Component | Minimum                         | Recommended                    |
 |-----------|---------------------------------|--------------------------------|
-| OS        | Ubuntu 20.04                    | Ubuntu 22.04                   |
 | Python    | 3.9                             | 3.10 (conda)                   |
 | GPU       | 6 GB VRAM (e.g., GTX 1660)      | 12 GB + (RTX 3060 / A100)      |
 | CUDA      | 11.7+                           | 12.x                           |
